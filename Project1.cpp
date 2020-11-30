@@ -34,6 +34,7 @@ void filling(int array[100][100], int size) {
 
 int main()
 {
+	printf("Test text");
 	int size;; // розмір матриці
 	scanf("%d", &size);
 	int array[100][100] = {};
